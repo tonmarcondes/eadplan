@@ -2,6 +2,8 @@
 
 **EADPlan** é um aplicativo desenvolvido para o Projeto Integrador da Universidade UNIVESP, com o objetivo de ajudar alunos do ensino a distância a organizar suas atividades acadêmicas, melhorando seu desempenho e aumentando a permanência nos cursos.
 
+![EADPlan](./assets/img/eadplan.png)
+
 ## Tecnologias Utilizadas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
